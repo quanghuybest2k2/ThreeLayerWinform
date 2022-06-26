@@ -1,0 +1,14 @@
+D:\Window Form\ThreeLayerWinform\ThreeLayerWinform\bin\Debug\ThreeLayerWinform.exe.config
+D:\Window Form\ThreeLayerWinform\ThreeLayerWinform\bin\Debug\ThreeLayerWinform.exe
+D:\Window Form\ThreeLayerWinform\ThreeLayerWinform\bin\Debug\ThreeLayerWinform.pdb
+D:\Window Form\ThreeLayerWinform\ThreeLayerWinform\bin\Debug\BusinessLogic.dll
+D:\Window Form\ThreeLayerWinform\ThreeLayerWinform\bin\Debug\DataAccess.dll
+D:\Window Form\ThreeLayerWinform\ThreeLayerWinform\bin\Debug\BusinessLogic.pdb
+D:\Window Form\ThreeLayerWinform\ThreeLayerWinform\bin\Debug\DataAccess.pdb
+D:\Window Form\ThreeLayerWinform\ThreeLayerWinform\obj\Debug\ThreeLayerWinform.csproj.AssemblyReference.cache
+D:\Window Form\ThreeLayerWinform\ThreeLayerWinform\obj\Debug\ThreeLayerWinform.Properties.Resources.resources
+D:\Window Form\ThreeLayerWinform\ThreeLayerWinform\obj\Debug\ThreeLayerWinform.csproj.GenerateResource.cache
+D:\Window Form\ThreeLayerWinform\ThreeLayerWinform\obj\Debug\ThreeLayerWinform.csproj.CoreCompileInputs.cache
+D:\Window Form\ThreeLayerWinform\ThreeLayerWinform\obj\Debug\ThreeLayerWinform.csproj.CopyComplete
+D:\Window Form\ThreeLayerWinform\ThreeLayerWinform\obj\Debug\ThreeLayerWinform.exe
+D:\Window Form\ThreeLayerWinform\ThreeLayerWinform\obj\Debug\ThreeLayerWinform.pdb

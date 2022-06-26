@@ -1,0 +1,9 @@
+D:\Window Form\ThreeLayerWinform\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\Window Form\ThreeLayerWinform\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\Window Form\ThreeLayerWinform\BusinessLogic\bin\Debug\DataAccess.dll
+D:\Window Form\ThreeLayerWinform\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\Window Form\ThreeLayerWinform\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+D:\Window Form\ThreeLayerWinform\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Window Form\ThreeLayerWinform\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\Window Form\ThreeLayerWinform\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\Window Form\ThreeLayerWinform\BusinessLogic\obj\Debug\BusinessLogic.pdb
