@@ -12,3 +12,4 @@ D:\Window Form\ThreeLayerWinform\ThreeLayerWinform\obj\Debug\ThreeLayerWinform.c
 D:\Window Form\ThreeLayerWinform\ThreeLayerWinform\obj\Debug\ThreeLayerWinform.csproj.CopyComplete
 D:\Window Form\ThreeLayerWinform\ThreeLayerWinform\obj\Debug\ThreeLayerWinform.exe
 D:\Window Form\ThreeLayerWinform\ThreeLayerWinform\obj\Debug\ThreeLayerWinform.pdb
+D:\Window Form\ThreeLayerWinform\ThreeLayerWinform\obj\Debug\ThreeLayerWinform.frmFood.resources
